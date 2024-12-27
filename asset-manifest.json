@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book_MockApi_React/static/css/main.ea099583.css",
+    "main.js": "/Book_MockApi_React/static/js/main.625d0e21.js",
+    "index.html": "/Book_MockApi_React/index.html",
+    "main.ea099583.css.map": "/Book_MockApi_React/static/css/main.ea099583.css.map",
+    "main.625d0e21.js.map": "/Book_MockApi_React/static/js/main.625d0e21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea099583.css",
+    "static/js/main.625d0e21.js"
+  ]
+}
